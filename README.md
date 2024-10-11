@@ -46,8 +46,8 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Additional Resources
-Java Servlets Documentation
-Apache Tomcat Documentation
+#Java Servlets Documentation
+#Apache Tomcat Documentation
 
 ### Key Features of this `README.md`:
 - Clear sections for features, technologies, setup instructions, and author information.
@@ -55,3 +55,6 @@ Apache Tomcat Documentation
 - Includes additional resources for users who may want to explore more about Java Servlets and Apache Tomcat.
 
 Feel free to adjust any paths or details specific to your implementation before adding this to your GitHub repository! Let me know if you need any more modifications or sections!
+
+Feel free to replace `<repository-url>` with the actual URL of your repository. Let me know if you need further assistance!
+
