@@ -1,6 +1,3 @@
-# Java-Servlet-Average-Calculator
-This project is a simple web application that calculates the sum and average of three numbers entered by the user. It is built using Java Servlets, HTML, and CSS, and is deployed on an Apache Tomcat server.
-
 # Java Servlet Average Calculator
 
 This project is a simple web application that calculates the sum and average of three numbers entered by the user. It is built using Java Servlets, HTML, and CSS, and is deployed on an Apache Tomcat server.
