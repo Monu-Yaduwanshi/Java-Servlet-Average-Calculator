@@ -18,7 +18,7 @@ This project is a simple web application that calculates the sum and average of 
 
 ### Clone the Repository
 
-```bash
+
 git clone <repository-url>
 Deploy on Apache Tomcat
 Import the project into your Eclipse IDE:
