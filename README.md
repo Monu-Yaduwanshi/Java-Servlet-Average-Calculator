@@ -53,8 +53,3 @@ Additional Resources
 - Clear sections for features, technologies, setup instructions, and author information.
 - Encourages future development with notes on potential database integration.
 - Includes additional resources for users who may want to explore more about Java Servlets and Apache Tomcat.
-
-Feel free to adjust any paths or details specific to your implementation before adding this to your GitHub repository! Let me know if you need any more modifications or sections!
-
-Feel free to replace `<repository-url>` with the actual URL of your repository. Let me know if you need further assistance!
-
